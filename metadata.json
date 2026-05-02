@@ -1,0 +1,5 @@
+{
+  "name": "Omiseller",
+  "description": "An intelligent automation dashboard for Amazon sellers featuring product hunting, sourcing, listing generation, and voice control.",
+  "requestFramePermissions": ["microphone"]
+}
